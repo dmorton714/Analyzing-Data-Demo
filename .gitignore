@@ -128,4 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-global_games_sales.ipynb
+/hide
